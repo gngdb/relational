@@ -62,7 +62,7 @@ setnet(x).size()
 The original NeurIPS paper can be found [here](https://papers.nips.cc/paper/2017/hash/e6acf4b0f69f6f6e60e9a815938aa1ff-Abstract.html) and here's the bibtex so you can copy it:
 
 ```
-@inproceedings{NIPS2017_e6acf4b0,
+@inproceedings{santoro2017simple,
  author = {Santoro, Adam and Raposo, David and Barrett, David G and Malinowski, Mateusz and Pascanu, Razvan and Battaglia, Peter and Lillicrap, Timothy},
  booktitle = {Advances in Neural Information Processing Systems},
  editor = {I. Guyon and U. V. Luxburg and S. Bengio and H. Wallach and R. Fergus and S. Vishwanathan and R. Garnett},
