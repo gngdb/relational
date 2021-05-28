@@ -18,6 +18,10 @@ The original paper can be found [here](https://arxiv.org/abs/1706.01427).
 This can be used to implement a relational network in PyTorch. An example would be something like:
 
 ```python
+from relational.core import relation
+```
+
+```python
 import torch
 import torch.nn as nn
 ```
