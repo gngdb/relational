@@ -1,8 +1,10 @@
-# A Minimal [Relational][] Function
+# A Minimal Relational Function
 > PyTorch/Numpy agnostic function implementing the relational block from "A simple neural network module for relational reasoning".
 
 
-I wrote this in one day to learn how to use [nbdev][]. I'm pretty sure it's correct but it only implements the core function for using relational networks and none of the other stuff (such as `nn.Module` classes etc) that [Kai included in the pull request][kai].
+I wrote this to learn how to use [nbdev][]. I'm pretty sure it's correct but it only implements the core function for using relational networks and none of the other stuff (such as `nn.Module` classes etc) that [Kai included in the pull request][kai].
+
+The original paper can be found [here](https://arxiv.org/abs/1706.01427).
 
 [kai]: https://github.com/pytorch/pytorch/pull/2105
 [nbdev]: https://nbdev.fast.ai
